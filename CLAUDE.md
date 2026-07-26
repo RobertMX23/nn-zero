@@ -8,7 +8,7 @@
 
 这是 Andrej Karpathy 的 **Neural Networks: Zero to Hero** 课程的克隆——即 YouTube 系列讲座中现场编写的 Jupyter notebook（各讲的视频链接见 `README.md`）。这里没有库、没有包、也没有测试套件：交付物就是 notebook 本身。
 
-uv 脚手架（`pyproject.toml`、`uv.lock`、`.python-version`、`main.py`）是**在上游内容之上的本地补充**，已暂存但尚未提交。`main.py` 是 `uv init` 生成的无用占位文件。`lectures/` 目录下的所有内容都是上游内容。
+uv 脚手架（`pyproject.toml`、`uv.lock`、`.python-version`）是**在上游内容之上的本地补充**，已暂存但尚未提交。`lectures/` 目录下的所有内容都是上游内容。
 
 ## 环境配置
 
